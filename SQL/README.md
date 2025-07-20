@@ -4,6 +4,7 @@
 - Querying with `SELECT`, `JOIN`, `GROUP BY`, `HAVING`, `ORDER BY`
 - Aggregate functions: `COUNT`, `SUM`, `AVG`, `MIN`, `MAX`
 - Advanced queries: Subqueries, Window functions, CTEs
+
 **Here I will be sharing SQL scripts while practicing throught my learning journey.**
 ***Common functions and operations***
 - Select
@@ -13,6 +14,7 @@
 - Joins
 - Unions
 - String operation
+
 ...To be continued
 
 **Getting Started**
