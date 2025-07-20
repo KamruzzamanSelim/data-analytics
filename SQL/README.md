@@ -1,18 +1,3 @@
-# IMPORT DATA FROM GOOGLE DRIVE TO KAGGLE OR GOOGLE COLAB
-
-In most cases, when we are working with CSV file that is stored in Google Drive, we can easliy read the file either in Kaggle or Google Colab. You have to follow below steps to read CSV files.
-
----
-
-## Table of Contents
-1. [Overview](#overview)
-2. [Features](#features)
-3. [Installation](#installation)
-4. [Usage](#usage)
-5. [Data Import Examples](#data-import-examples)
-6. [Contributing](#contributing)
-7. [License](#license)
-
 # **Features**
 - SQL table creation (`CREATE TABLE`)
 - Data manipulation using `INSERT`, `UPDATE`, `DELETE`
