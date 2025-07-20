@@ -4,10 +4,7 @@
 - Querying with `SELECT`, `JOIN`, `GROUP BY`, `HAVING`, `ORDER BY`
 - Aggregate functions: `COUNT`, `SUM`, `AVG`, `MIN`, `MAX`
 - Advanced queries: Subqueries, Window functions, CTEs
-- Solutions for SQL challenges like:
-  - Weather Observation Station (HackerRank)
-  - Employee and Company databases
-  - Query optimization examples
+# Here I will be sharing SQL scripts while practicing throught my learning journey.
 
 **Getting Started**
 
@@ -18,5 +15,5 @@
 **2. Setup**
 Clone the repository:
 ```bash
-git clone https://github.com/your-username/sql-practice.git
+git clone https://github.com/kamruzzamanselim/sql-practice.git
 cd sql-practice
