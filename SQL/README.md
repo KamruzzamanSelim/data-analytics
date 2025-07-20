@@ -5,14 +5,14 @@
 - Aggregate functions: `COUNT`, `SUM`, `AVG`, `MIN`, `MAX`
 - Advanced queries: Subqueries, Window functions, CTEs
 **Here I will be sharing SQL scripts while practicing throught my learning journey.**
-*Commong functions and operations*
--Select
--Group by
--Order by
--Limits/Offset
--Joins
--Unions
--String operation
+***Common functions and operations***
+- Select
+- Group by
+- Order by
+- Limits/Offset
+- Joins
+- Unions
+- String operation
 ...To be continued
 
 **Getting Started**
