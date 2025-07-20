@@ -1,4 +1,4 @@
-**Features**
+# **Features**
 - SQL table creation (`CREATE TABLE`)
 - Data manipulation using `INSERT`, `UPDATE`, `DELETE`
 - Querying with `SELECT`, `JOIN`, `GROUP BY`, `HAVING`, `ORDER BY`
