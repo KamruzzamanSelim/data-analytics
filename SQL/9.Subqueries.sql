@@ -44,3 +44,10 @@ SELECT first_name, age, (select avg(age) from employee_demographics) as average
 from employee_demographics
 group by first_name, age
 order by age asc;
+
+SELECT AVG(`AVG(age)`) AS avg_age, AVG(`COUNT(gender)`) AS avg_gender
+FROM (SELECT gender, AVG(age), COUNT(gender) FROM employee_demographics
+GROUP BY gender) as agg_table;
+
+SELECT gender, AVG(age), COUNT(gender) FROM employee_demographics
+GROUP BY gender;
