@@ -1,6 +1,7 @@
 # **Features**
 - SQL table creation (`CREATE TABLE`)
 - Data manipulation using `INSERT`, `UPDATE`, `DELETE`
+- String Functions such as `TRIM`, `LEFT`, `RIGHT`, `CONCAT`, `UPPER`, `LOWER`
 - Querying with `SELECT`, `JOIN`, `GROUP BY`, `HAVING`, `ORDER BY`
 - Aggregate functions: `COUNT`, `SUM`, `AVG`, `MIN`, `MAX`
 - Advanced queries: Subqueries, Window functions, CTEs
