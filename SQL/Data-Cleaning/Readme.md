@@ -4,6 +4,9 @@
 --Remove Duplicate
 
 --Data Standardization
+
   --Date
+  
 --Remove Null/Blank
+
 --Remove Un-necessary rows/columns
