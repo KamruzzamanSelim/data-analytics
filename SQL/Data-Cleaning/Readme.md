@@ -2,6 +2,7 @@
 
 ## Cleaning data of 'layoff.csv' dataset from kaggle.
 --Remove Duplicate
+
 --Data Standardization
   --Date
 --Remove Null/Blank
