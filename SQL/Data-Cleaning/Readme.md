@@ -1,5 +1,6 @@
 # Data Cleaning
-*** Cleaning data of 'layoff.csv' dataset from kaggle.
+
+## Cleaning data of 'layoff.csv' dataset from kaggle.
 --Remove Duplicate
 --Data Standardization
   --Date
