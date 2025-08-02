@@ -9,4 +9,4 @@ This SQL script:
 - Outputs a cleaned dataset ready for analysis
 
 Database: MySQL  
-File: `layoffs_data_cleaning.sql`
+File: `data_cleaning.sql`
