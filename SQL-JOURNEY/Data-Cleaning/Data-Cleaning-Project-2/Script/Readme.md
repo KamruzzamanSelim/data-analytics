@@ -3,7 +3,7 @@
 
 This SQL script:
 - Loads raw data
-- Removes duplicates
+- Check duplicates
 - Standardizes values
 - Fixes missing entries using cross-reference
 - Outputs a cleaned dataset ready for analysis
