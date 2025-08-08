@@ -18,7 +18,7 @@ The script:
 8. Produces final cleaned data and summary reports
 
 ---
-
+```mermaid
 flowchart TD
     A[Raw Data: dirty_cafe_sales] --> B[Create Working Table: dirty_cafe_sales2]
     B --> C[Replace Empty Strings with NULL]
@@ -36,7 +36,7 @@ flowchart TD
     N --> O[Generate Summary Reports]
     O --> P[Final Clean Dataset]
 
-
+```
 ##  How to Use
 
 1. **Import the SQL script** into your MySQL environment.
